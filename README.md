@@ -2,7 +2,7 @@
   
 <br/>  
 
-## My skill tech
+## I'm studying these tech
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -19,7 +19,7 @@
 
 ##  bchoi
 
-🎓 Dept. of DataScience  
+🎓 Dept. of DS
   
 
   1️⃣ SW융합교육 동아리 CNTO 3기  
